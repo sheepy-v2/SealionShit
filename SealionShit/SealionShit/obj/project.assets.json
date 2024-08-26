@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joeri\\OneDrive\\Documents\\school\\NAV\\SealionShit\\SealionShit\\SealionShit.csproj",
+      "projectUniqueName": "C:\\Users\\joeri\\source\\repos\\curio-studenten\\c3-windows-app-groep-r4\\SealionShit\\SealionShit\\SealionShit\\SealionShit.csproj",
       "projectName": "SealionShit",
-      "projectPath": "C:\\Users\\joeri\\OneDrive\\Documents\\school\\NAV\\SealionShit\\SealionShit\\SealionShit.csproj",
+      "projectPath": "C:\\Users\\joeri\\source\\repos\\curio-studenten\\c3-windows-app-groep-r4\\SealionShit\\SealionShit\\SealionShit\\SealionShit.csproj",
       "packagesPath": "C:\\Users\\joeri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joeri\\OneDrive\\Documents\\school\\NAV\\SealionShit\\SealionShit\\obj\\",
+      "outputPath": "C:\\Users\\joeri\\source\\repos\\curio-studenten\\c3-windows-app-groep-r4\\SealionShit\\SealionShit\\SealionShit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
