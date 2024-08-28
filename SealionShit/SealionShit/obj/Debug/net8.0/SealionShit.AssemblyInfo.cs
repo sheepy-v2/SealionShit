@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SealionShit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b36d5c4f09fdc56b8ab17809104d6d8bdb6ac4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SealionShit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SealionShit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
